@@ -9,7 +9,7 @@ The following book is a more comprehensive reference:
 MVC: Pro ASP.NET MVC 4 (There is a newer version of this book that covers MVC 5. Both should be available on Safari.)
 
 ========================================================
-siufdhgiushfg
+siufd
  
 === Suggestions by Todd Brees ======================== 
 MSDN integration of GitHub with Visual Studio 
